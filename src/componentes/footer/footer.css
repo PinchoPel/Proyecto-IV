@@ -1,0 +1,62 @@
+footer{
+    height: 15vh;
+    display: flex;
+    align-items: center;
+}
+
+
+#contact{
+    color: var(--secondary-color);
+    margin: 3vh 5vw;
+    font-size: 24px;
+    transition: 0.3s ease-out;
+}
+
+#contact:hover{
+font-size: 27px;
+}
+
+@media (max-width:900px){
+    #contact{
+font-size: 18px;
+    }
+    #contact:hover{
+        font-size: 22px;
+        }
+}
+
+@media (max-width:600px){
+    #contact{
+font-size: 16px;
+    }
+    #contact:hover{
+        font-size: 16px;
+        }
+}
+
+@media (max-width:500px){
+    #contact{
+font-size: 14px;
+    }
+    #contact:hover{
+        font-size: 14px;
+        }
+}
+
+@media (max-width:400px){
+    #contact{
+font-size: 12px;
+    }
+    #contact:hover{
+        font-size: 12px;
+        }
+}
+
+@media (max-width:300px){
+    #contact{
+font-size: 10px;
+    }
+    #contact:hover{
+        font-size: 10px;
+        }
+}

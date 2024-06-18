@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Moderne:wght@100..400&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+li{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+
+:root{
+--primary-color: #ffd000;
+--secondary-color: #d536d7;
+--tertiary-color:  #384c56;
+--quaternary-color:  #b5b1b1;
+}
+
+body{
+    background:linear-gradient(to bottom left, var(--secondary-color),var(--primary-color));
+}

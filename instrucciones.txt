@@ -1,0 +1,17 @@
+Requisitos mínimos del proyecto 1 en cuanto al HTML y CSS
+
+Web FULL RESPONSIVE
+
+Código limpio y buena arquitectura de componentes con VITE
+
+Nada de código escrito directamente en el HTML
+
+Existen componentes reutilizables para los elementos que se repiten en nuestra página
+
+El código de ningún componente supera las 100 líneas de código javascript
+
+Cada componente tiene su respectivo CSS
+
+Mínimo tendremos un evento que nos permita cambiar el contenido que se visualiza, alternando entre experiencia y estudios
+
+https://www.figma.com/design/RXN01hA44DFTYaJIB89wYV/PROYECTO4?t=mq0pGZimhN0ytHEM-1

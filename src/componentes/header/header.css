@@ -1,0 +1,48 @@
+
+header{
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+#sergio,h1{
+    font-family: "Playwrite FR Moderne", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color:var(--primary-color);
+  font-size: 5vw;
+}
+
+@media (max-width: 800px){
+  #sergio,h1{
+    font-size: 5.3vw;
+  }
+}
+
+@media (max-width: 600px){
+  #sergio,h1{
+    font-size: 5.7vw;
+  }
+}
+
+@media (max-width: 500px){
+  #sergio,h1{
+    font-size: 6vw;
+  }
+}
+
+@media (max-width: 400px){
+  #sergio,h1{
+    font-size: 6.3vw;
+  }
+}
+
+@media (max-width: 350px){
+  #sergio,h1{
+    font-size: 6.8vw;
+  }
+}
