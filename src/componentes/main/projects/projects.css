@@ -1,0 +1,85 @@
+#projectsection{
+    height: auto;
+    width: 100vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-items: center;
+    flex-direction: column;;
+    align-items: center;
+    align-content: center;
+}
+
+.cardproject{
+margin: 10px 15px;
+padding: 5px;
+border: 3px solid var(--quaternary-color);
+border-radius: 10px;
+background-color: var(--tertiary-color);
+display: flex;
+justify-content: space-around;
+align-items: center;
+width: 400px;
+height: 150px;
+}
+
+.imageproject{
+    width: 150px;
+    height: 60px;
+    border-radius: 5px;
+}
+
+
+
+a{
+    color: var(--quaternary-color);
+    cursor: pointer;
+    text-align: center;
+    font-size: 23px;
+    font-weight: 700;
+}
+
+@media (max-width: 900px){
+    #projectsection{
+        height: auto;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(4,1fr);
+    }
+}
+
+@media (max-width: 760px){
+    .cardproject{
+        margin: 10px 15px;
+        padding: 5px;
+        width: 300px;
+        height: 120px;
+        }
+        .imageproject{
+            width: 100px;
+            height: 40px;
+        }
+        a{
+            font-size: 16px;
+        }
+}
+@media (max-width: 500px){
+    .cardproject{
+        width: 270px;
+        height: 100px;
+    }
+}
+@media (max-width: 380px){
+    .cardproject{
+        margin: 10px 15px;
+        padding: 5px;
+        width: 200px;
+        height: 80px;
+        }
+    .imageproject{
+            width: 80px;
+            height: 30px;
+        }
+        a{
+            font-size: small;
+        }
+}
