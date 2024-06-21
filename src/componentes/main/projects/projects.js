@@ -1,21 +1,21 @@
 const projects = [
     {
-        Imagen: "src\componentes\main\projects\images\Fast-Stop.png",
+        Imagen: "public/images/Fast-Stop.png",
         Enlace: "https://soft-granita-7e5fd8.netlify.app/",
         Nombre: "Visit project",
     },
     {
-        Imagen: "src\componentes\main\projects\images\Unsplashing.png",
+        Imagen: "public/images/Unsplashing.png",
         Enlace: "https://unsplashingproyectoiii.netlify.app/",
         Nombre: "Visit project",
     },
     {
-        Imagen: "src\componentes\main\projects\images\plantify.png",
+        Imagen: "public/images/plantify.png",
         Enlace: "https://cool-donut-1384e2.netlify.app/",
         Nombre: "Visit project",
     },
     {
-        Imagen: "src\componentes\main\projects\images\code_icon-icons.com_73620.png",
+        Imagen: "public/images/code_icon-icons.com_73620.png",
         Enlace: "https://github.com/PinchoPel",
         Nombre: "Visit GitHub's profile",
     },

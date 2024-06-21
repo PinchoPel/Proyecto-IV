@@ -2,31 +2,31 @@
 const logos = [
    
     {
-        imagen: "src/componentes/main/knowledges/images_logos/html-1.svg",
+        imagen: "public/images/html-1.svg",
         nombre: "HTML5"
       },
       {
-        imagen: "https://portfolioproyectoiv.netlify.app/public/images/css-3.svg",
+        imagen: "public/images/css-3.svg",
         nombre: "CSS3"
       },
       {
-        imagen: "src\componentes\main\knowledges\images_logos\sass-1.svg",
+        imagen: "public/images/sass-1.svg",
         nombre: "SCSS"
       },
       {
-        imagen: "src\componentes\main\knowledges\images_logos\javascript-1.svg",
+        imagen: "public/images/javascript-1.svg",
         nombre: "JavaScript"
       },
       {
-        imagen: "src\componentes\main\knowledges\images_logos\nodejs-1.svg",
+        imagen: "public/images/nodejs-1.svg",
         nombre: "NodeJS"
       },
       {
-        imagen: "src\componentes\main\knowledges\images_logos\vitejs.svg",
+        imagen: "public/images/vitejs.svg",
         nombre: "VITE"
       },
       {
-        imagen: "src\componentes\main\knowledges\images_logos\github-icon-1.svg",
+        imagen: "public/images/github-icon-1.svg",
         nombre: "GitHub",
       },
 
