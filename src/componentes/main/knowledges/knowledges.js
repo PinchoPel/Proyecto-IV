@@ -2,7 +2,7 @@
 const logos = [
    
     {
-        imagen: "../public/images/html-1.svg",
+        imagen: "../images/html-1.svg",
         nombre: "HTML5"
       },
       {
@@ -10,23 +10,23 @@ const logos = [
         nombre: "CSS3"
       },
       {
-        imagen: "../public/images/sass-1.svg",
+        imagen: "../images/sass-1.svg",
         nombre: "SCSS"
       },
       {
-        imagen: "../public/images/javascript-1.svg",
+        imagen: "../images/javascript-1.svg",
         nombre: "JavaScript"
       },
       {
-        imagen: "../public/images/nodejs-1.svg",
+        imagen: "../images/nodejs-1.svg",
         nombre: "NodeJS"
       },
       {
-        imagen: "../public/images/vitejs.svg",
+        imagen: "../images/vitejs.svg",
         nombre: "VITE"
       },
       {
-        imagen: "../public/images/github-icon-1.svg",
+        imagen: "../images/github-icon-1.svg",
         nombre: "GitHub",
       },
 
