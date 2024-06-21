@@ -6,7 +6,7 @@ const logos = [
         nombre: "HTML5"
       },
       {
-        imagen: "../public/images/css-3.svg",
+        imagen: "../images/css-3.svg",
         nombre: "CSS3"
       },
       {
@@ -39,6 +39,7 @@ import { changeButton } from "../Change_Button/Change_Button";
 import { sectionTitle } from "../main-part";
 
 import "./knowledges.css"
+
 
 export let renderLogos = () => {
     mainPart.innerHTML = "";
