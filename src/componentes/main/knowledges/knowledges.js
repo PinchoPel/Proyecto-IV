@@ -2,31 +2,31 @@
 const logos = [
    
     {
-        imagen: "/public/images/html-1.svg",
+        imagen: "src\componentes\main\knowledges\images_logos\html-1.svg",
         nombre: "HTML5"
       },
       {
-        imagen: "/public/images/css-3.svg",
+        imagen: "src\componentes\main\knowledges\images_logos\css-3.svg",
         nombre: "CSS3"
       },
       {
-        imagen: "/public/images/sass-1.svg",
+        imagen: "src\componentes\main\knowledges\images_logos\sass-1.svg",
         nombre: "SCSS"
       },
       {
-        imagen: "/public/images/javascript-1.svg",
+        imagen: "src\componentes\main\knowledges\images_logos\javascript-1.svg",
         nombre: "JavaScript"
       },
       {
-        imagen: "/public/images/nodejs-1.svg",
+        imagen: "src\componentes\main\knowledges\images_logos\nodejs-1.svg",
         nombre: "NodeJS"
       },
       {
-        imagen: "/public/images/vitejs.svg",
+        imagen: "src\componentes\main\knowledges\images_logos\vitejs.svg",
         nombre: "VITE"
       },
       {
-        imagen: "/public/images/github-icon-1.svg",
+        imagen: "src\componentes\main\knowledges\images_logos\github-icon-1.svg",
         nombre: "GitHub",
       },
 
