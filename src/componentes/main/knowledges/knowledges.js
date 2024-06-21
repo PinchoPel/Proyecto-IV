@@ -6,7 +6,7 @@ const logos = [
         nombre: "HTML5"
       },
       {
-        imagen: "../images/css-3.svg",
+        imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/css-3.svg",
         nombre: "CSS3"
       },
       {
