@@ -2,7 +2,7 @@
 const logos = [
    
     {
-        imagen: "src\componentes\main\knowledges\images_logos\html-1.svg",
+        imagen: "src/componentes/main/knowledges/images_logos/html-1.svg",
         nombre: "HTML5"
       },
       {
