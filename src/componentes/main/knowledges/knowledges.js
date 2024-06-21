@@ -6,7 +6,7 @@ const logos = [
         nombre: "HTML5"
       },
       {
-        imagen: "src\componentes\main\knowledges\images_logos\css-3.svg",
+        imagen: "public\images\css-3.svg",
         nombre: "CSS3"
       },
       {
