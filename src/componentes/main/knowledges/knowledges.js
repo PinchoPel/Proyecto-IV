@@ -2,31 +2,31 @@
 const logos = [
    
     {
-        imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/html-1.svg",
+        imagen: "./public/html-1.svg",
         nombre: "HTML5"
       },
       {
-        imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/css-3.svg",
+        imagen: "./public/css-3.svg",
         nombre: "CSS3"
       },
       {
-        imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/sass-1.svg",
+        imagen: "./public/sass-1.svg",
         nombre: "SCSS"
       },
       {
-        imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/javascript-1.svg",
+        imagen: "./public/javascript-1.svg",
         nombre: "JavaScript"
       },
       {
-        imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/nodejs-1.svg",
+        imagen: "./public/nodejs-1.svg",
         nombre: "NodeJS"
       },
       {
-        imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/vitejs.svg",
+        imagen: "./public/vitejs.svg",
         nombre: "VITE"
       },
       {
-        imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/github-icon-1.svg",
+        imagen: "./public/github-icon-1.svg",
         nombre: "GitHub",
       },
 

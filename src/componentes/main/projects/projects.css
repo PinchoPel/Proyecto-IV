@@ -1,13 +1,13 @@
 #projectsection{
     height: auto;
     width: 100vw;
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    grid-template-rows: 1fr 1fr;
-    justify-items: center;
-    flex-direction: column;;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: center;
     align-items: center;
     align-content: center;
+    margin-top: 50px;
+    gap: 30px;
 }
 
 .cardproject{
@@ -21,6 +21,7 @@ justify-content: space-around;
 align-items: center;
 width: 400px;
 height: 150px;
+gap: 10px;
 }
 
 .imageproject{
@@ -37,6 +38,7 @@ a{
     text-align: center;
     font-size: 23px;
     font-weight: 700;
+    text-align: center;
 }
 
 @media (max-width: 900px){

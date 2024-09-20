@@ -1,24 +1,30 @@
 const projects = [
     {
-        Imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/Fast-Stop.png",
+        Imagen: "./public/Fast-Stop.png",
         Enlace: "https://soft-granita-7e5fd8.netlify.app/",
         Nombre: "Visit project",
         Alt: "Web tienda de motos",
     },
     {
-        Imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/Unsplashing.png",
+        Imagen: "./public/Unsplashing.png",
         Enlace: "https://unsplashingproyectoiii.netlify.app/",
         Nombre: "Visit project",
         Alt:"Web para buscar imágenes",
     },
     {
-        Imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/plantify.png",
-        Enlace: "https://cool-donut-1384e2.netlify.app/",
+        Imagen: "./public/plantify.png",
+        Enlace: "https://candid-florentine-09014c.netlify.app/",
         Nombre: "Visit project",
         Alt: "Web tienda de plantas",
     },
     {
-        Imagen: "https://6675ebcda79a96ef9d798edb--stalwart-llama-eeb07b.netlify.app/code_icon-icons.com_73620.png",
+        Imagen: "./public/zona de juegos.png",
+        Enlace: "https://juegosproyectov.netlify.app/",
+        Nombre: "Visit project and play",
+        Alt: "Zona de juegos",
+    },
+    {
+        Imagen: "./public/code_icon-icons.com_73620.png",
         Enlace: "https://github.com/PinchoPel",
         Nombre: "Visit GitHub's profile",
         Alt: "Perfil de Github",
