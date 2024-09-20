@@ -26,7 +26,7 @@ const projects = [
     },
     {
         Imagen: "https://66ed2baf00b9e01101fc6aad--gleeful-arithmetic-728b2b.netlify.app/plantify.png",
-        Enlace: "https://candid-florentine-09014c.netlify.app/",
+        Enlace: "https://prismatic-capybara-2e56c0.netlify.app/",
         Nombre: "Visit project",
         Alt: "Web tienda de plantas",
     },
