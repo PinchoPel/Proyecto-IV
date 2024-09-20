@@ -2,31 +2,31 @@
 const logos = [
    
     {
-        imagen: "./public/html-1.svg",
+        imagen: ".https://66ed2baf00b9e01101fc6aad--gleeful-arithmetic-728b2b.netlify.app/html-1.svg",
         nombre: "HTML5"
       },
       {
-        imagen: "./public/css-3.svg",
+        imagen: "https://66ed2baf00b9e01101fc6aad--gleeful-arithmetic-728b2b.netlify.app/css-3.svg",
         nombre: "CSS3"
       },
       {
-        imagen: "./public/sass-1.svg",
+        imagen: "https://66ed2baf00b9e01101fc6aad--gleeful-arithmetic-728b2b.netlify.app/sass-1.svg",
         nombre: "SCSS"
       },
       {
-        imagen: "./public/javascript-1.svg",
+        imagen: "https://66ed2baf00b9e01101fc6aad--gleeful-arithmetic-728b2b.netlify.app/javascript-1.svg",
         nombre: "JavaScript"
       },
       {
-        imagen: "./public/nodejs-1.svg",
+        imagen: "https://66ed2baf00b9e01101fc6aad--gleeful-arithmetic-728b2b.netlify.app/nodejs-1.svg",
         nombre: "NodeJS"
       },
       {
-        imagen: "./public/vitejs.svg",
+        imagen: "https://66ed2baf00b9e01101fc6aad--gleeful-arithmetic-728b2b.netlify.app/vitejs.svg",
         nombre: "VITE"
       },
       {
-        imagen: "./public/github-icon-1.svg",
+        imagen: "https://66ed2baf00b9e01101fc6aad--gleeful-arithmetic-728b2b.netlify.app/github-icon-1.svg",
         nombre: "GitHub",
       },
 
