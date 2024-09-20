@@ -2,7 +2,7 @@
 const logos = [
    
     {
-        imagen: ".https://66ed2baf00b9e01101fc6aad--gleeful-arithmetic-728b2b.netlify.app/html-1.svg",
+        imagen: "https://gleeful-arithmetic-728b2b.netlify.app/html-1.svg",
         nombre: "HTML5"
       },
       {
